@@ -22,5 +22,5 @@ neworder=input("")
 if neworder == "yes":
     print("Milk chocolate or dark?")
 else:
-        print("Goodbye then")
+    print("Goodbye then")
 #please, this code has to be updated because it doesn't work as planned
